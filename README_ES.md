@@ -1,6 +1,6 @@
 # ML_Heart_Failure
 
-Este proyecto de Machine Learning pretende predecir si una persona sería propensa a tener una afección cardiaca teniendo en cuenta una seríe de características sobre la salud.
+Este proyecto de Machine Learning pretende predecir si una persona sería propensa a tener una afección cardiaca teniendo en cuenta una serie de características sobre la salud.
 
 El dataset utilizado es público y proviene de Kaggle (usuario FEDESORIANO -  https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction). El dataset tiene 918 filas y 12 columnas. Las columnas son las siguientes:
 
