@@ -20,10 +20,10 @@ The project is broken down into an initial data visualization and then, through 
 
 The repository is divided into a 'main' folder with this README and a 'src' folder, which in turn has the following subfolders:
 
-data_sample: dataset used
-img: images that may have been used
-models: best model obtained
-notebooks: notebooks used
-results_notebook: final notebook
-utils: functions that may have been used
+- data_sample: dataset used
+- img: images that may have been used
+- models: best model obtained
+- notebooks: notebooks used
+- results_notebook: final notebook
+- utils: functions that may have been used
 
